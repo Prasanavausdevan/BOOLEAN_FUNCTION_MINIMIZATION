@@ -1,4 +1,3 @@
-![368436861-6035bc00-a957-4f97-9ae5-da1ebf80a64e](https://github.com/user-attachments/assets/9297c610-ae3c-4a4e-b2b7-88ca00e1f1fd)
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
