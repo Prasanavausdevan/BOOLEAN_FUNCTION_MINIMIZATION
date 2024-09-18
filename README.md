@@ -1,5 +1,4 @@
-![368436783-1b416323-e578-499c-9147-a1f2514fbbcb](https://github.com/user-attachments/assets/e4d33910-c976-4a30-b50c-e6d81823afbd)# BOOLEAN_FUNCTION_MINIMIZATION
-
+![368436861-6035bc00-a957-4f97-9ae5-da1ebf80a64e](https://github.com/user-attachments/assets/9297c610-ae3c-4a4e-b2b7-88ca00e1f1fd)
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
@@ -71,8 +70,9 @@ endmodule
 ![368436783-1b416323-e578-499c-9147-a1f![368436861-6035bc00-a957-4f97-9ae5-da1ebf80a64e](https://github.com/user-attachments/assets/aab76887-e429-40f5-b6cc-b60d618c6339)
 2514fbbcb](https://github.com/user-attachments/assets/457856f2-4e37-4f0f-941c-1faf86527a83)
 
+![368436861-6035bc00-a957-4f97-9ae5-da1ebf80a64e](https://github.com/user-attachments/assets/3b396071-adec-44d8-8d16-4fc724c2d61d)
 
-![Uploading 368436861-6035bc00-a957-4f97-9ae5-da1ebf80a64e.png…]()
+
 
 **Result:**
 
